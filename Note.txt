@@ -1,0 +1,2 @@
+Git did just transformed 4.4 MB files into 684.2 kB without compressing but just deduplicing data! 🤩
+Instead of purging, blockchains should do the same.
